@@ -8,7 +8,7 @@ This repository contains the official code of OSTAR in ["Mapping Conditional Dis
 
 ### Options
 ```
-python run.py [-h] [-t MODEL] [-d DATASET] [-i RUNS] [-g GPUID] [-s SETTING]
+python run.py [-t MODEL] [-d DATASET] [-i RUN_ITERATIONS] [-g GPUID] [-s SETTING]
 ```
 - Choose the model (see Section 5 of the paper for more details):
   - `-t 100000000000`: `Source`
