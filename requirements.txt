@@ -1,0 +1,9 @@
+Cython
+numpy
+pot
+torch
+torchvision
+sklearn
+matplotlib
+pandas
+jupyter
